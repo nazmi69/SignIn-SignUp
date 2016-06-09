@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NakSenang\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\carpenter.png",
+        "source": "C:\\Users\\User\\Desktop\\NakSenang\\app\\src\\main\\res\\mipmap-hdpi\\carpenter.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NakSenang\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pest.png",
+        "source": "C:\\Users\\User\\Desktop\\NakSenang\\app\\src\\main\\res\\mipmap-hdpi\\pest.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NakSenang\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\User\\Desktop\\NakSenang\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NakSenang\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\mechanic.png",
+        "source": "C:\\Users\\User\\Desktop\\NakSenang\\app\\src\\main\\res\\mipmap-hdpi\\mechanic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\NakSenang\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\electrician.png",
+        "source": "C:\\Users\\User\\Desktop\\NakSenang\\app\\src\\main\\res\\mipmap-hdpi\\electrician.png"
+    }
+]
